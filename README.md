@@ -91,7 +91,6 @@ The remaining code is available under [specify your license, e.g., MIT, GPL, etc
 ## Acknowledgments
 
 - [Dynamsoft](https://www.dynamsoft.com/) for their Barcode Reader SDK
-- [ZXing-CPP](https://github.com/nu-book/zxing-cpp) for additional barcode functionality
 - [Qt](https://www.qt.io/) for the application framework
 
 ## Contact
